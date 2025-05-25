@@ -1,1 +1,2 @@
-23.344
+Enter the number to check..
+Odd
