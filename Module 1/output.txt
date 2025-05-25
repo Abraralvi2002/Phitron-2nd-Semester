@@ -1,2 +1,4 @@
-Enter the number to check..
-Odd
+3
+32
+3
+10
