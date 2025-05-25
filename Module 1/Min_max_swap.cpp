@@ -6,6 +6,7 @@ int main(){
 
     cout << min({a,b,c,d,e}) << endl;
     cout << max({a,b,c,d,e}) << endl;
+    swap(a,b);
     cout << min(a,b) << endl;
     cout << max(a,b) << endl;
 
