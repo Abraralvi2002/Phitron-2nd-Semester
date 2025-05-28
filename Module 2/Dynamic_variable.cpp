@@ -1,10 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std;
+int *p,*q;
+void sum(){
+    int *a = new int;
+    int *b = new int;
+    cin>>*a>>*b;
+    p = a;
+    q = b;
+}
 int main(){
-    int *p = new int;
-    int *q = new int;
     cout<<"Enter Two Integer"<<endl;
-    cin>>*p>>*q;
+    sum();
     cout<<*p+*q<<endl;
     return 0;
 }

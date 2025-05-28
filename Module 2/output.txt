@@ -1,2 +1,2 @@
 Enter Two Integer
-70
+140
