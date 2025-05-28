@@ -1,2 +1,2 @@
-Rahim 45 5 2.5
-Karim 1 5 5
+Joshim 5 7 4.5
+Hashem 3 7 4.98
