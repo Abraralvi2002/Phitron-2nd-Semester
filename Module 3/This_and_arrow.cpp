@@ -9,7 +9,7 @@ class Student{
 
     Student(string name,int roll,int cls,double gpa){
         this->name = name;
-        (*this).roll = roll;
+        (*this).roll = roll;// either {(*this).sommething} or {this->something}
         (*this).cls = cls;
         this->gpa = gpa;
     }
