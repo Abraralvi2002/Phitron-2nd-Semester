@@ -1,4 +1,1 @@
-2nd Array -> 
-10 5 6 3 12 
-1st Array -> 
-7172768 0 7143760 
+Snippet generated
