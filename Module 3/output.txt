@@ -1,3 +1,2 @@
-Md Abrar Siddiqui 1294 D 63 3.81
-Rasel Ahmed 1240 D 63 3.7
-Mr. Meow Meow 1111 D 63 4
+Rahim 45 5 2.5
+Karim 1 5 5
