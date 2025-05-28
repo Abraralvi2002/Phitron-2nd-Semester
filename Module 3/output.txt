@@ -1,2 +1,1 @@
-Joshim 5 7 4.5
-Hashem 3 7 4.98
+Unlucky
