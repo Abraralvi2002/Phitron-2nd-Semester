@@ -9,7 +9,7 @@ int main(){
     for(int i = 0;i<3;i++){
         ar2[i] = ar[i];
     }
-    delete ar;
+    delete[] ar;
     for(int i = 3;i<5;i++){
         cin>>ar2[i];
     }
