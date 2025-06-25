@@ -8,8 +8,8 @@ int main(){
         cin>>v[i];
     }
     sort(v.begin(),v.end());
-    for(int i = 0,j=i+1;i<n;i++,j++){
-        if(v[i]==v[j]){
+    for(int i = 0;i<n-1;i++){
+        if(v[i]==v[i+1]){
             cout<<"YES";
             return 0;
         }
