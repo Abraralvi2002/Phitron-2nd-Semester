@@ -23,9 +23,11 @@ int main(){
     b->next = c;
     c->next = d;
 
-    while(head != NULL){
-        cout<<head->val<<endl;
-        head = head->next;
+    Node* tmp = head;
+    
+    while(tmp != NULL){
+        cout<<tmp->val<<endl;
+        tmp = tmp->next;
     }
     return 0;
 }
