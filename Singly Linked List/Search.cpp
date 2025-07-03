@@ -55,6 +55,12 @@ int main(){
         int X;
         cin>>X;
         serch_val(head,X);
+
+        while(head != NULL){
+            Node* tmp = head;
+            head = head->next;
+            delete tmp;
+        }
     }
 
     return 0;
