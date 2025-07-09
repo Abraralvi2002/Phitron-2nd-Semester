@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Doubly Linked List",
+      "program": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Doubly Linked List/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
