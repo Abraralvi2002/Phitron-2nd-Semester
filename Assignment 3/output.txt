@@ -1,7 +1,5 @@
-YES
-NO
-YES
-YES
-NO
-YES
-NO
+Invalid
+embappe
+neymar
+messi
+Invalid

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Mid Exam",
-      "program": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Mid Exam/build/Debug/outDebug",
+      "cwd": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Assignment 3",
+      "program": "c:/Users/abrar/OneDrive/Desktop/Phitron 2nd Semester/Assignment 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
