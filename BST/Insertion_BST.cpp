@@ -67,6 +67,7 @@ Node* input_tree(){
 void insertion_bst(Node* root, int val){
     if(root == NULL){
         root = new Node(val);
+        return;
     }
     if(root->val > val){
         if(root->left == NULL){
@@ -114,6 +115,6 @@ int main(){
 
     insertion_bst(root,val);
     level_order(root);
-    
+
     return 0;
 }
