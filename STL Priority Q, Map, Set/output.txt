@@ -1,4 +1,7 @@
-sakib 1 90
-jakib 2 90
-rakib 3 80
-makib 5 60
+cricket 1
+football 2
+he 2
+i 2
+love 3
+loves 1
+tennis 1
